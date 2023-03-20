@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @casimiro03
-- 👀 I’m interested in program and video games
-- 🌱 I’m currently learning c++
+- 👀 I’m into videogames, the internet and the programming
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
