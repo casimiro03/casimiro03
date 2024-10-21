@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @casimiro03
-- 👀 I’m into videogames, the internet and the programming
+- 👀 I’m into videogames, maths, programming, physicology of behivor, economics, and automatization
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on project of IA and process information of people behivor
+- 📫 How to reach me DMs
 
 <!---
 casimiro03/casimiro03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
