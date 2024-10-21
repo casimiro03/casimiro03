@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, computation, algorithms and maths 
 - 💞️ I’m looking to collaborate on project of IA and process information of people behivor
 - 📫 How to reach me DMs
+- I speak spanish & english 
 
 <!---
 casimiro03/casimiro03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
