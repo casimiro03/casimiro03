@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @casimiro03
 - 👀 I’m into videogames, maths, programming, physicology of behivor, economics, and automatization
-- 🌱 I’m currently learning Python, computation, algorithms and maths 
-- 💞️ I’m looking to collaborate on project of IA and process information of people behivor
+- 🌱 I’m currently learning Python, computation, algorithms, maths and reading a lot  
+- 💞️ I’m looking to collaborate on projects of IAs, apps and modeling of data
 - 📫 How to reach me DMs
 - I speak spanish & english 
 
