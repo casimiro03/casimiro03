@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @casimiro03
+- 👋 Hi, I’m @casimirx
 - 👀 I’m into videogames, maths, programming, physicology of behivor, economics, and automatization
 - 🌱 I’m currently learning Python, computation, algorithms, maths and reading a lot  
 - 💞️ I’m looking to collaborate on projects of IAs, apps and modeling of data
